@@ -25,9 +25,9 @@ void mystrcpy(char target[], char source[])
 
 int main()
 {
-    char source[] = "harry";
+    char source[] = "deep";
     char target[30];
-    mystrcpy(target, source); // target now contains "harry"
+    mystrcpy(target, source); // target now contains "deep"
     printf("%s %s", source, target);
     return 0;
 }

@@ -17,8 +17,8 @@ class Employee:
         print("Good morning")
 
 
-harry = Employee("Harry", 1300000, "JavaScript") 
-# harry.name = "Harry"
-print(harry.name, harry.salary, harry.language)
+deep = Employee("deep", 1300000, "JavaScript") 
+# deep.name = "deep"
+print(deep.name, deep.salary, deep.language)
 
 rohan = Employee()

@@ -1,4 +1,4 @@
-a = ["Harry", "Rohan", "Shubham"]
+a = ["Deep", "Rohan", "Shubham"]
 
 final = "::".join(a)
 print(final)

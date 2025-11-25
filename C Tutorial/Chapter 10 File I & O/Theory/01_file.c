@@ -3,7 +3,7 @@
 int main()
 {
     FILE *ptr;
-    ptr = fopen("harry.txt", "r");
+    ptr = fopen("deep.txt", "r");
     int num;
     fscanf(ptr, "%d", &num);
     printf("The value of num is %d \n", num);

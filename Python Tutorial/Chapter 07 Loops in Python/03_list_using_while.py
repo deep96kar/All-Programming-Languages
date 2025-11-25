@@ -1,4 +1,4 @@
-l = [1, "Harry", False, "This", "Rohan", "Shubham", "Shubhi"]
+l = [1, "Deep", False, "This", "Rohan", "Shubham", "Shubhi"]
 
 i = 0
 

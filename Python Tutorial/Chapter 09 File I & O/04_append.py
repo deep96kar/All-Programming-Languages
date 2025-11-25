@@ -1,4 +1,4 @@
-st = "Hey Harry you are amazing"
+st = "Hey Deep you are amazing"
 
 f = open("myfile.txt", "a")
 

@@ -2,9 +2,9 @@
 
 int main(){
     int marks1, marks2, marks3;
-    // int value_of_harrys_marks;
+    // int value_of_deeps_marks;
     // int value_of_rohans_marks;
-    // printf("%d",value_of_harrys_marks )
+    // printf("%d",value_of_deeps_marks )
     printf("Enter marks1: \n");
     scanf("%d", &marks1);
     printf("Enter marks2: \n");

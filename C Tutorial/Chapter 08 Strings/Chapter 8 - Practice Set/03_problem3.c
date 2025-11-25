@@ -13,7 +13,7 @@ int strlen(char str[]){
 
 }
 int main(){
-    char str[] = "Harry bhai";
+    char str[] = "Deep bhai";
     
     printf("%d", strlen(str));
     return 0;

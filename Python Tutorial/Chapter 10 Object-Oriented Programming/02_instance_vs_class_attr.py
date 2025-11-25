@@ -3,7 +3,7 @@ class Employee:
     salary = 1200000
 
 
-harry = Employee()
-harry.language = "JavaScript" # This is an instance attribute
-print(harry.language, harry.salary)
+deep = Employee()
+deep.language = "JavaScript" # This is an instance attribute
+print(deep.language, deep.salary)
  

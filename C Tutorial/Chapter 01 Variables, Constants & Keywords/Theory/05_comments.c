@@ -1,6 +1,6 @@
 /*
 Program: 05_comments.c
-Author: Harry
+Author: Deep
 Date: 3 October 2030
 */
 #include<stdio.h>

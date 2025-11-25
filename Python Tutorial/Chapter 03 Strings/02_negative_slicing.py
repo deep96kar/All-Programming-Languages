@@ -1,4 +1,4 @@
-name = "Harry"
+name = "Deep"
 
 print(name[0:3])
 

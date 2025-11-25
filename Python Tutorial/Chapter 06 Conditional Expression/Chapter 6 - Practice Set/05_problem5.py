@@ -1,4 +1,4 @@
-l = ["Harry", "Rohan", "Shubham", "Divya"]
+l = ["Deep", "Rohan", "Shubham", "Divya"]
 
 name = input("Enter your name: ")
 

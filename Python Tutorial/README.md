@@ -8,7 +8,7 @@ This is a part of my video The Ultimate Python Couse. Refer to this [video](http
 
 ## Introduction
 
-This repository is part of **The Ultimate Python Course** created by [CodeWithHarry](https://www.codewithharry.com/). The course aims to provide a comprehensive guide to learning Python programming.
+This repository is part of **The Ultimate Python Course** created by [CodeWithDeep](https://www.CodeWithDeep.com/). The course aims to provide a comprehensive guide to learning Python programming.
 
 ## Chapters
 

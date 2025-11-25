@@ -12,7 +12,7 @@ char* slice(char str[], int m, int n){
 
 }
 int main(){
-    char str[] = "Harry bhai";
+    char str[] = "Deep bhai";
     
     printf("%s", slice(str, 1, 7));
     return 0;

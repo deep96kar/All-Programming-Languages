@@ -17,7 +17,7 @@ class Employee:
 e = Employee()
 e.a = 45
 
-e.name = "Harry Khan"
+e.name = "Deep Khan"
 print(e.fname, e.lname)
 
 e.show()

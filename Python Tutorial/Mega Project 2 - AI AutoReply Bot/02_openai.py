@@ -28,7 +28,7 @@ ye hindi English mix hai but best hai
 completion = client.chat.completions.create(
   model="gpt-3.5-turbo",
   messages=[
-    {"role": "system", "content": "You are a person named harry who speaks hindi as well as english. He is from India and is a coder. You analyze chat history and respond like Harry"},
+    {"role": "system", "content": "You are a person named deep who speaks hindi as well as english. He is from India and is a coder. You analyze chat history and respond like deep"},
     {"role": "user", "content": command}
   ]
 )

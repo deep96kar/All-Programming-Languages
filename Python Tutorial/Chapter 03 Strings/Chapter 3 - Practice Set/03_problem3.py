@@ -1,3 +1,3 @@
-name = "Harry is a good  boy and  "
+name = "Deep is a good  boy and  "
 
 print(name.find("  "))

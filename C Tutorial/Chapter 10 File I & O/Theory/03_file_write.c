@@ -3,7 +3,7 @@
 int main()
 {
     FILE *fptr;
-    fptr = fopen("harry.txt", "a");
+    fptr = fopen("deep.txt", "a");
     int num = 432;
     fprintf(fptr, "%d", num);
     fclose(fptr);

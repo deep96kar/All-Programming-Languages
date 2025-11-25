@@ -9,6 +9,6 @@ for i in t:
     print(i)
 
 ## For Loop with Strings
-s = "Harry"
+s = "Deep"
 for i in s:
     print(i)

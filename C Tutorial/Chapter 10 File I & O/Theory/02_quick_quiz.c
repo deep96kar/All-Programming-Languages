@@ -3,7 +3,7 @@
 int main()
 {
     FILE *ptr;
-    ptr = fopen("harry2.txt", "r");
+    ptr = fopen("deep2.txt", "r");
 
     if(ptr == NULL){
         printf("The file does not exist sorry! \n");

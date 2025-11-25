@@ -6,8 +6,8 @@ int main()
     FILE *ptr;
     FILE *ptr2;
 
-    ptr = fopen("harry.txt", "r");
-    ptr2 = fopen("harry3.txt", "a");
+    ptr = fopen("deep.txt", "r");
+    ptr2 = fopen("deep3.txt", "a");
     while (1)
     {
        

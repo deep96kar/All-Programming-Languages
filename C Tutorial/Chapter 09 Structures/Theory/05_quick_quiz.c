@@ -19,7 +19,7 @@ int main()
 {
     struct employee e1;
     e1.code = 4511;
-    strcpy(e1.name, "Harry");
+    strcpy(e1.name, "Deep");
     e1.salary = 54.44;
     show(e1);
 
